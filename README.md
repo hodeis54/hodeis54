@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @hodeis54
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hodeis54/hodeis54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m hodeis
+- 👀 I’m interested in traveling,hiking and reading.
+- 🌱 I’m currently learning how to design an effective ELL course for adult learner.
+- 💞️ I’m looking to collaborate on differnt instructional design methodologies.
+- 📫 How to reach me via email: hodeishaddadi@gmail.com
