@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hodeis
-- 👀 I’m interested in traveling,hiking and reading....
+- 👀 I’m interested in traveling,hiking, listening to music and reading.
 - 🌱 I’m currently learning how to design an effective ELL course for adult learner.
 - 💞️ I’m looking to collaborate on differnt instructional design methodologies.
 - 📫 How to reach me via email: hodeishaddadi@gmail.com
